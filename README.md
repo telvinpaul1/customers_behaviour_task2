@@ -88,7 +88,6 @@ sales-customer-behaviour-insights/
     ├── sales_data.csv
     ├── product_info.csv
     └── customer_info.csv
-Keep the input data folder private or exclude it from Git if it contains personal, confidential, or otherwise restricted information. You can include a small synthetic sample instead.
 Author
 Paul Anyira
 Data Analytics Project — Week 2
